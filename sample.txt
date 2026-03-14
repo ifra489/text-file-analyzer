@@ -1,0 +1,5 @@
+Node.js is powerful.
+Node.js allows JavaScript on the server.
+
+Node.js is fast.
+It uses event driven architecture.
