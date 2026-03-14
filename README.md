@@ -43,7 +43,7 @@ No external packages are required since the project uses built-in Node.js module
 ## Usage
 ![Basic CLI Output](node.png)
 ![Basic CLI Output](node1.png)
-![Basic CLI Output](node2.png)
+![Basic CLI Output](node3.png)
 
 
 ### Basic command:
